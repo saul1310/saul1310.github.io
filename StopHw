@@ -1,1 +1,60 @@
 
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Statistical transparency of Policing Report Resonse </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1> Race Ethnicity Reporting for tier 2 Agencies For all reported stops </h1>
+        <table>
+          <tr>|Agency Name|
+            <th>Albany</th>
+            <th>Ashland</th>
+            <th>Bend</th>
+            <th>
+              benton
+            </th>
+      
+          </tr>
+          <tr> |Asian/PI|
+            <th>65</th>
+            <th>48</th>
+            <th>70</th>
+      
+          </tr>
+        
+      
+      
+      
+        </table>
+       
+        <p1>The article "Statistical Transparency of Policing Report" by Ken Sanchagrin highlights the importance of statistical transparency in the policing industry. The report discusses the role of data in policing and how its transparency can help build trust between law enforcement and the community.
+
+            One of the key points made in the report is that data can provide insight into the effectiveness of policing practices. By collecting and analyzing data on police interactions, such as arrests and use of force, law enforcement agencies can identify areas where they need to improve and adjust their practices accordingly. This not only improves the effectiveness of policing but also helps build trust between law enforcement and the community by demonstrating a commitment to transparency and accountability.
+            
+            The report also discusses the importance of transparency in the use of data. It argues that data should be accessible to the public, as this promotes accountability and builds trust between law enforcement and the community. When members of the public are able to access and analyze policing data, they can hold law enforcement agencies accountable for their actions and provide feedback on how to improve policing practices. This helps to ensure that policing is conducted in a fair and unbiased manner, which is essential for building trust between law enforcement and the community.
+            
+            The report also highlights the need for standardization in policing data collection. Currently, there is no standardized method for collecting data on police interactions. This makes it difficult to compare data across different jurisdictions and can lead to inconsistencies in policing practices. By standardizing data collection methods, law enforcement agencies can ensure that data is accurate and comparable, which improves the effectiveness of policing practices and promotes transparency.
+            
+            Another key point made in the report is the importance of community involvement in policing. When members of the community are involved in the policing process, they are more likely to trust law enforcement and be invested in the success of policing efforts. By involving the community in the collection and analysis of policing data, law enforcement agencies can build trust and foster a sense of accountability between law enforcement and the community.
+            
+            Overall, the "Statistical Transparency of Policing Report" highlights the importance of statistical transparency in the policing industry. By collecting and analyzing data on police interactions, law enforcement agencies can identify areas where they need to improve and adjust their practices accordingly. Additionally, by promoting transparency in the use of data and involving the community in the policing process, law enforcement agencies can build trust and foster a sense of accountability between law enforcement and the community.
+            
+            In conclusion, the "Statistical Transparency of Policing Report" provides a valuable discussion on the role of data in policing and the importance of statistical transparency. By implementing standardized data collection methods and involving the community in the policing process, law enforcement agencies can promote transparency and build trust between law enforcement and the community. This ultimately leads to more effective policing practices and a safer community for all.</p1>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+    </body>
+</html>
